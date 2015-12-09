@@ -1,0 +1,11 @@
+\\ad.ocdsb.ca\studenthome\4\s199879934\visual studio 2012\Projects\MathGameForHumanChildren\MathGameForHumanChildren\bin\Debug\MathGameForHumanChildren.exe.config
+\\ad.ocdsb.ca\studenthome\4\s199879934\visual studio 2012\Projects\MathGameForHumanChildren\MathGameForHumanChildren\bin\Debug\MathGameForHumanChildren.exe
+\\ad.ocdsb.ca\studenthome\4\s199879934\visual studio 2012\Projects\MathGameForHumanChildren\MathGameForHumanChildren\bin\Debug\MathGameForHumanChildren.pdb
+\\ad.ocdsb.ca\studenthome\4\s199879934\visual studio 2012\Projects\MathGameForHumanChildren\MathGameForHumanChildren\bin\Debug\MathGameForHumanChildren.xml
+\\ad.ocdsb.ca\studenthome\4\s199879934\visual studio 2012\Projects\MathGameForHumanChildren\MathGameForHumanChildren\obj\Debug\MathGameForHumanChildren.Form1.resources
+\\ad.ocdsb.ca\studenthome\4\s199879934\visual studio 2012\Projects\MathGameForHumanChildren\MathGameForHumanChildren\obj\Debug\MathGameForHumanChildren.Resources.resources
+\\ad.ocdsb.ca\studenthome\4\s199879934\visual studio 2012\Projects\MathGameForHumanChildren\MathGameForHumanChildren\obj\Debug\MathGameForHumanChildren.vbproj.GenerateResource.Cache
+\\ad.ocdsb.ca\studenthome\4\s199879934\visual studio 2012\Projects\MathGameForHumanChildren\MathGameForHumanChildren\obj\Debug\MathGameForHumanChildren.exe
+\\ad.ocdsb.ca\studenthome\4\s199879934\visual studio 2012\Projects\MathGameForHumanChildren\MathGameForHumanChildren\obj\Debug\MathGameForHumanChildren.xml
+\\ad.ocdsb.ca\studenthome\4\s199879934\visual studio 2012\Projects\MathGameForHumanChildren\MathGameForHumanChildren\obj\Debug\MathGameForHumanChildren.pdb
+\\ad.ocdsb.ca\studenthome\4\s199879934\visual studio 2012\Projects\MathGameForHumanChildren\MathGameForHumanChildren\obj\Debug\MathGameForHumanChildren.Form2.resources
