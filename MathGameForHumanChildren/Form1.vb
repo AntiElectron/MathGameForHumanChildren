@@ -1,5 +1,7 @@
-﻿Public Class Form1
+Public Class Form1
     Dim strUser As String
+    Dim Fontt As New System.Drawing.Font("Times New Roman", 12)
+
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
     End Sub
@@ -35,6 +37,7 @@
 
     Private Sub txt_launch_TextChanged(sender As Object, e As EventArgs) Handles txt_launch.MouseClick
         txt_launch.Text = ""
+        txt_launch.Font = New System.Drawing.Font(txt_launch.Font)
     End Sub
 
     Private Sub txt_launch_TextChanged_1(sender As Object, e As EventArgs) Handles txt_launch.TextChanged
